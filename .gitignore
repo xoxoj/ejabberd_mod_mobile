@@ -1,6 +1,9 @@
 .eunit
 deps
+ebin
 *.o
 *.beam
 *.plt
 erl_crash.dump
+ejabberd
+*.swp
