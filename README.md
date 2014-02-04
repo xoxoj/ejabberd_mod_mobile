@@ -1,10 +1,13 @@
 ejabberd_mod_mobile
 ===================
 
-Several useful ejabberd modules for mobile usage
+Several useful ejabberd modules for mobile usage.
 
+## Experimental modules
 * mod_mobile_echo
  * Echo sending messages to its other resources. Can be used as an ACK.
+
+## Plan
 * mod_push_notification
  * Send push notification to mobile device/web browser through APN, GCM and others
 * mod_chat_list
